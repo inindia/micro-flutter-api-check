@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:get/get.dart';
-import 'package:task1/app/data/model/home_data_model.dart';
+import 'package:micro_flutter_api_check/app/data/model/home_data_model.dart';
 
 class HomeController extends GetxController {
   var dio = Dio();

@@ -1,6 +1,6 @@
 {
-    "name": "task1",
-    "short_name": "task1",
+    "name": "micro_flutter_api_check",
+    "short_name": "micro_flutter_api_check",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
